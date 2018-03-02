@@ -44,7 +44,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
         </sourceDesc>
      </fileDesc>
  </teiHeader>
- <text>
+<text>
 <body>
 <title>Blacks left out of medical picture</title>
 <cb>
@@ -81,8 +81,7 @@ students feel the cost of dental or med­ical education would be prohibitive.
 The fourth is that many black students
 are unaware of the opportunities which
 would be opened to them as physicians
-and dentists. </text></body></p>
-<body>
+and dentists. </p> </body>
 <p>We feel that these four reasons should
 not deter any black student on this cam­
 pus from the attainment of worthwhile
