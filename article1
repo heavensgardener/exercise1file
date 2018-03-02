@@ -1,5 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/
+schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model
+href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/
+schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+     <fileDesc>
+        <titleStmt>
+                <title type="main">Blacks left out of medical picture</title>
+	<author>
+                 <persName>Mischa Wolfinger</persName>
+	</author>
+        </titleStmt>
+	<respStmt>
+	<resp>Encoded by</resp>
+	<persName>Mischa Wolfinger</persName>
+	</respStmt>
+        <publicationStmt>
+          <publisher>
+	       <orgName ref="#MITH">Maryland Institute for Technology in the
+                 Humanities (MITH)</orgName>
+	</publisher>
+	 <pubPlace>
+	     <settlement>College Park</settlement>
+	      <region>Maryland</region>
+                </pubPlace>
+                <date when="3/13/2018">March 13th, 2018</date>
+            </publicationStmt>
+        <sourceDesc>
+           <biblio>
+	      <title>The Diamondback</title>
+               <publisher>The University of Maryland - College Park </publisher>
+               <pubPlace>
+                    <settlement>College Park</settlement>
+	           <region>Maryland</region>
+		</pubPlace>
+               <date when="9/19/1969">September 19th, 1969</date>
+              </biblio>
+        </sourceDesc>
+     </fileDesc>
+ </teiHeader>
+ <text>
+<body>
 <title>Blacks left out of medical picture</title>
-
+<cb>
 <p>The serious shortage of physicians and
 dentists this nation faces is a fact acknowledged by federal experts and public
 alike. However, one of the least known
@@ -12,8 +60,8 @@ medicine. Whereas there is one dentist
 for every 1,750 Americans there is only
 one black dentist for every 10,000 black
 Americans.</p>
-<p>The crux of the problem is that there
-<cb>
+<p>The crux of the problem is that there</p>
+</cb>
 are far too few black college students
 who enter medical and dental schools.
 There appear to be four principal rea­
@@ -33,7 +81,8 @@ students feel the cost of dental or med­ical education would be prohibitive.
 The fourth is that many black students
 are unaware of the opportunities which
 would be opened to them as physicians
-and dentists.</p>
+and dentists. </text></body></p>
+<body>
 <p>We feel that these four reasons should
 not deter any black student on this cam­
 pus from the attainment of worthwhile
@@ -41,6 +90,7 @@ careers in dentistry or medicine.
 For the black student who finds his
 background inadequate in any subject, he
 can readily obtain tutoring assistance by
+</cb>
 <cb>
 contacting his instructor, the study skills
 program of the <orgName>Counseling Center</orgName>; the
@@ -71,6 +121,7 @@ boards certify Negro physicians as
 specialists without restriction when
 they have met the respective training
 requirements and passed the examinations.
+</cb>
 <cb>
 For the black student who needs finan­cial assistance, there are numerous
 awards available from professional
@@ -97,3 +148,7 @@ interested in these professions to investigate our programs.
 <persName>Charles Sneiderman</persName>
 <persName>Jeffery Blum</persName>
 <orgName>Pre-Medical societies and Pre-Dental</orgName></p>
+</cb>
+</body>
+</text>
+</tei>
