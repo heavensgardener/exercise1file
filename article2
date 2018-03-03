@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model
 href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/
@@ -11,7 +12,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
  <teiHeader>
      <fileDesc>
         <titleStmt>
-                <title type=”main”>Blacks left out of medical picture</title>
+                <title type=”main”>Profs report racism</title>
+                <title type=""
 	<author>
                  <persName>Mischa Wolfinger</persName>
 	</author>
@@ -36,10 +38,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 	      <title>The Diamondback</title>
                <publisher>The University of Maryland - College Park </publisher>
                <pubPlace>
-                    <settlement>College Park</settlement>
-	           <region>Maryland</region>
+                   <settlement>College Park</settlement>
+	                 <region>Maryland</region>
 		</pubPlace>
-               <date when=”9/19/1969”>September 19th, 1969</date>
+               <date when=”3/10/1969”>March 10th, 1969</date>
               </biblio>
         </sourceDesc>
      </fileDesc>
@@ -47,7 +49,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
  <text>
 	<body>
 
-Profs report racism (3/10/1969)
+<title>Profs report racism</title>
 Discrimination charged
 in Balto. med schools
 By LARRY MILLER
