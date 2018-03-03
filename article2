@@ -1,3 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model
+href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/
+schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model
+href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/
+schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+     <fileDesc>
+        <titleStmt>
+                <title type=”main”>Blacks left out of medical picture</title>
+	<author>
+                 <persName>Mischa Wolfinger</persName>
+	</author>
+        </titleStmt>
+	<respStmt>
+	<resp>Encoded by</resp>
+	<persName>Mischa Wolfinger</persName>
+	</respStmt>
+        <publicationStmt>
+          <publisher>
+	       <orgName ref=”#MITH”>Maryland Institute for Technology in the
+                 Humanities (MITH)</orgName>
+	</publisher>
+	 <pubPlace>
+	     <settlement>College Park</settlement>
+	      <region>Maryland</region>
+                </pubPlace>
+                <date when=”3/13/2018”>March 13th, 2018</date>
+            </publicationStmt>
+        <sourceDesc>
+           <biblio>
+	      <title>The Diamondback</title>
+               <publisher>The University of Maryland - College Park </publisher>
+               <pubPlace>
+                    <settlement>College Park</settlement>
+	           <region>Maryland</region>
+		</pubPlace>
+               <date when=”9/19/1969”>September 19th, 1969</date>
+              </biblio>
+        </sourceDesc>
+     </fileDesc>
+ </teiHeader>
+ <text>
+	<body>
+
 Profs report racism (3/10/1969)
 Discrimination charged
 in Balto. med schools
