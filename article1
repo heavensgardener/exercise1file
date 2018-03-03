@@ -53,12 +53,12 @@ dentists this nation faces is a fact acknowledged by federal experts and public
 alike. However, one of the least known
 aspects of this problem is the appalling
 shortage of black physicians and dentists.
-Among white Americans, one out of
-every 670 is a physician but among black
-Americans, only one in 5,000 practices
-medicine. Whereas there is one dentist
-for every 1,750 Americans there is only
-one black dentist for every 10,000 black
+Among white Americans, <num>one</num> out of
+every <num>670</num> is a physician but among black
+Americans, only <num>one</num> in <num>5,000</num> practices
+medicine. Whereas there is <num>one</num> dentist
+for every <num>1,750</num> Americans there is only
+<num>one</num> black dentist for every <num>10,000</num> black
 Americans.</p>
 <p>The crux of the problem is that there</p>
 </cb>
