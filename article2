@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model
 href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/
@@ -12,8 +11,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
  <teiHeader>
      <fileDesc>
         <titleStmt>
-                <title type=”main”>Profs report racism</title>
-                <title type=""
+                <title type="main">Profs report racism</title>
+                <title type="sub">Discrimination charged in Balto. med schools</title>
 	<author>
                  <persName>Mischa Wolfinger</persName>
 	</author>
@@ -24,14 +23,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 	</respStmt>
         <publicationStmt>
           <publisher>
-	       <orgName ref=”#MITH”>Maryland Institute for Technology in the
+	       <orgName ref="#MITH">Maryland Institute for Technology in the
                  Humanities (MITH)</orgName>
 	</publisher>
 	 <pubPlace>
 	     <settlement>College Park</settlement>
 	      <region>Maryland</region>
                 </pubPlace>
-                <date when=”3/13/2018”>March 13th, 2018</date>
+                <date when="3/13/2018">March 13th, 2018</date>
             </publicationStmt>
         <sourceDesc>
            <biblio>
@@ -41,7 +40,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                    <settlement>College Park</settlement>
 	                 <region>Maryland</region>
 		</pubPlace>
-               <date when=”3/10/1969”>March 10th, 1969</date>
+               <date when="3/10/1969">March 10th, 1969</date>
+               <author>Larry Miller</author>
               </biblio>
         </sourceDesc>
      </fileDesc>
@@ -49,31 +49,29 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
  <text>
 	<body>
 
-<title>Profs report racism</title>
-Discrimination charged
-in Balto. med schools
-By LARRY MILLER
-Staff writer
+<title type="main">Profs report racism</title>
+<title type="sub">Discrimination charged in Balto. med schools</title>
+
 <cb>
-Two Johns Hopkins University
+Two <orgName><placeName>Johns Hopkins University</placeName></orgName>
 professors have charged that
-Baltimore area medical, dental
+<placeName>Baltimore</placeName> area medical, dental
 and nursing schools are guilty
-of “de facto discrimination”
+of <quote>“de facto discrimination”</quote>
 against black students.
-Dr. M. Alfred Haynes, asso­
-ciate professor at Johns Hop­
+Dr. <persName>M. Alfred Haynes</persName>, <lb/>asso­c
+iate<lb break="no"></lb> professor at <orgName><placeName>Johns Hop­
 kins School of Hygiene and Pub­
-lic Health, and Victor H. Dates,
+lic Health</placeName></orgName>, and <persName>Victor H. Dates</persName>,
 director of special programs for
 </cb>
 <cb>
-Johns Hopkins, published their
+<orgName><placeName>Johns Hopkins</placeName></orgName>, published their
 findings in a survey published
-in a recent issue of the Journal
-of Medical Education.
-The survey reviewed the ra­
-cial composition of graduating
+in a recent issue of the <title>Journal
+of Medical Education</title>.
+The survey reviewed the <lb/>ra­
+cial<lb break="no"></lb> composition of graduating
 classes at medical schools in the
 state over the past three years.
 The survey found that the Uni­
@@ -94,6 +92,7 @@ The survey also revealed that
 five Baltimore nursing schools
 have only 13 Negroes currently
 </cb>
+<cb>
 attending classes out of a com­
 bined total enrollment of 1,686
 students.
@@ -119,3 +118,7 @@ The survey called upon state
 and federal government to “exert
 strong economic pressures to
 improve the situation.”
+</cb>
+</body>
+</text>
+</TEI>
