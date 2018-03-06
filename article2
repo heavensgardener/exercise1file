@@ -10,11 +10,12 @@
 	<author>
                  <persName>Mischa Wolfinger</persName>
 	</author>
-        </titleStmt>
-	<respStmt>
+  <respStmt>
 	<resp>Encoded by</resp>
 	<persName>Mischa Wolfinger</persName>
 	</respStmt>
+        </titleStmt>
+
         <publicationStmt>
           <publisher>
 	       <orgName ref="#MITH">Maryland Institute for Technology in the
@@ -24,29 +25,26 @@
 	     <settlement>College Park</settlement>
 	      <region>Maryland</region>
                 </pubPlace>
-                <date when="3/13/2018">March 13th, 2018</date>
+                <date when="2018313">March 13th, 2018</date>
             </publicationStmt>
         <sourceDesc>
-           <biblio>
+           <bibl>
 	      <title>The Diamondback</title>
                <publisher>The University of Maryland - College Park </publisher>
                <pubPlace>
                    <settlement>College Park</settlement>
 	                 <region>Maryland</region>
 		</pubPlace>
-               <date when="3/10/1969">March 10th, 1969</date>
+               <date when="1969103">March 10th, 1969</date>
                <author>Larry Miller</author>
-              </biblio>
+              </bibl>
         </sourceDesc>
      </fileDesc>
  </teiHeader>
- <text>
-	<body>
-
-<title type="main">Profs report racism</title>
-<title type="sub">Discrimination charged in Balto. med schools</title>
-
-<cb>
+<text>
+<body>
+<cb/>
+<p>
 Two <orgName><placeName>Johns Hopkins University</placeName></orgName>
 professors have charged that
 <placeName>Baltimore</placeName> area medical, dental
@@ -58,8 +56,7 @@ iate<lb break="no"></lb> professor at <orgName><placeName>Johns Hop­
 kins School of Hygiene and Pub­
 lic Health</placeName></orgName>, and <persName>Victor H. Dates</persName>,
 director of special programs for
-</cb>
-<cb>
+<cb/>
 <orgName><placeName>Johns Hopkins</placeName></orgName>, published their
 findings in a survey published
 in a recent issue of the <title>Journal
@@ -77,7 +74,8 @@ blacks during the same period.
 The <orgName><placeName>University dental school</placeName></orgName>,
 the only one in the state,<lb/>grad­
 uated <num>no</num> blacks<lb break="no"></lb> the report
-showed.
+showed.</p>
+<p>
 There are <num>five</num> blacks now at­
 tending the <orgName><placeName>University medical
 school</placeName></orgName>, and <num>two</num> are enrolled in
@@ -85,8 +83,7 @@ the <orgName><placeName>dental school.</placeName></orgName>
 The survey also revealed that
 <num>five</num> <placeName>Baltimore</placeName> nursing schools
 have only <num>13</num> Negroes currently
-</cb>
-<cb>
+<cb/>
 attending classes out of a <lb/>com­
 bined<lb break="no"></lb>total enrollment of <num>1,686</num>
 students.
@@ -112,7 +109,7 @@ The survey called upon state
 and federal government to <quote>“exert
 strong economic pressures to
 improve the situation.”</quote>
-</cb>
+</p>
 </body>
 </text>
 </TEI>
